@@ -1,11 +1,18 @@
 # Hola, soy Kenneth 👋
 
 ## Sobre mí
-Estudiante de Ingeniería en Computación apasionado por el desarrollo backend y web.
 
-## Tecnologías
+¡Hola! Soy **Kenneth Gabriel Flores Saballos**, un apasionado estudiante de Ingeniería en Computación con un fuerte interés en el desarrollo backend y web. Me encanta resolver problemas complejos y diseñar soluciones eficientes que tengan un impacto real.
 
-## Tecnologías
+Actualmente, estoy profundizando mis conocimientos en tecnologías modernas como Node.js, Express, React, MySQL y arquitecturas de microservicios. También tengo experiencia y curiosidad por lenguajes como Java, C#, C++ y C, lo que me permite tener una perspectiva amplia en programación.
+
+Soy una persona autodidacta, comprometida con el aprendizaje continuo y siempre estoy buscando mejorar mis habilidades técnicas y de trabajo en equipo. Me interesa colaborar en proyectos desafiantes y contribuir con soluciones innovadoras.
+
+Además, disfruto explorando nuevas herramientas y metodologías para optimizar procesos y crear aplicaciones robustas, seguras y escalables.
+
+¡Estoy abierto a nuevas oportunidades, colaboraciones y proyectos que me permitan seguir creciendo profesionalmente!
+
+---
 
 ## Tecnologías
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -23,4 +30,6 @@ Estudiante de Ingeniería en Computación apasionado por el desarrollo backend y
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   
 ## Contacto
-- ✉️ eter.kenth@gmail.com
+- ✉️ eter.kenth@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kenneth-gabriel-flores-saballos-800268340/)
+
